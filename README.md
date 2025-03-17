@@ -1,6 +1,9 @@
 # dental_cavity_detection
 Major Project (MCA)
 
+=====================
+
+
 // creating a virtual environment 
 python -m venv venv
 venv\Scripts\activate
